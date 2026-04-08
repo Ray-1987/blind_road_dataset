@@ -1,1 +1,6 @@
 *.pt filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+=======
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 78ec7662639412bb4406c8066c2abd3915b7b35e
